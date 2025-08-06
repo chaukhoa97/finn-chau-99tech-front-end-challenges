@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Learn Express.js",
+    "description": "Basic Express.js tutorial for beginners",
+    "category": "tutorial",
+    "status": "inactive",
+    "created_at": "2025-08-05T21:57:42.930Z",
+    "updated_at": "2025-08-05T21:57:42.931Z",
+    "updatedAt": "2025-08-06T16:26:45.757Z"
+  },
+  {
+    "id": 2,
+    "name": "Build REST API",
+    "description": "Create a simple REST API with CRUD operations",
+    "category": "project",
+    "status": "active",
+    "created_at": "2025-08-05T21:57:42.931Z",
+    "updated_at": "2025-08-05T21:57:42.931Z"
+  },
+  {
+    "id": 3,
+    "name": "Database Integration",
+    "description": "Learn to connect Express with databases",
+    "category": "tutorial",
+    "status": "draft",
+    "created_at": "2025-08-05T21:57:42.931Z",
+    "updated_at": "2025-08-05T21:57:42.931Z"
+  },
+  {
+    "id": 4,
+    "name": "Learn Express.js",
+    "description": "Basic Express.js tutorial for beginners",
+    "category": "tutorial",
+    "status": "active",
+    "created_at": "2025-08-05T21:59:31.164Z",
+    "updated_at": "2025-08-05T21:59:31.164Z"
+  },
+  {
+    "id": 5,
+    "name": "Build REST API",
+    "description": "Create a simple REST API with CRUD operations",
+    "category": "project",
+    "status": "active",
+    "created_at": "2025-08-05T21:59:31.164Z",
+    "updated_at": "2025-08-05T21:59:31.164Z"
+  },
+  {
+    "id": 6,
+    "name": "Database Integration",
+    "description": "Learn to connect Express with databases",
+    "category": "tutorial",
+    "status": "draft",
+    "created_at": "2025-08-05T21:59:31.164Z",
+    "updated_at": "2025-08-05T21:59:31.164Z"
+  },
+  {
+    "id": 7,
+    "name": "TypeScript Test",
+    "description": "Testing TypeScript CRUD API",
+    "category": "test",
+    "status": "active",
+    "createdAt": "2025-08-05T22:10:23.373Z",
+    "updatedAt": "2025-08-05T22:10:23.373Z"
+  },
+  {
+    "id": 8,
+    "name": "Learn Express.js",
+    "description": "Basic Express.js tutorial for beginners",
+    "category": "tutorial",
+    "status": "active",
+    "createdAt": "2025-08-05T22:28:43.296Z",
+    "updatedAt": "2025-08-05T22:28:43.296Z"
+  },
+  {
+    "id": 9,
+    "name": "Build REST API",
+    "description": "Create a simple REST API with CRUD operations",
+    "category": "project",
+    "status": "active",
+    "createdAt": "2025-08-05T22:28:43.296Z",
+    "updatedAt": "2025-08-05T22:28:43.296Z"
+  },
+  {
+    "id": 10,
+    "name": "Database Integration",
+    "description": "Learn to connect Express with databases",
+    "category": "tutorial",
+    "status": "inactive",
+    "createdAt": "2025-08-05T22:28:43.296Z",
+    "updatedAt": "2025-08-05T22:28:43.296Z"
+  },
+  {
+    "id": 12,
+    "name": "Learn TypeScript",
+    "description": "TypeScript fundamentals",
+    "category": "tutorial",
+    "status": "active",
+    "createdAt": "2025-08-06T16:26:38.213Z",
+    "updatedAt": "2025-08-06T16:26:38.213Z"
+  }
+]
